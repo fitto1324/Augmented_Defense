@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MLH" size="0.100000 0.057080" />
+    <ImageTarget name="Orbit" size="0.100000 0.101638" />
+    <ImageTarget name="MLH_2018" size="0.100000 0.100000" />
+    <ImageTarget name="Cat1" size="0.100000 0.088721" />
+    <ImageTarget name="Google" size="0.100000 0.036621" />
+    <ImageTarget name="13" size="0.050000 0.054936" />
+    <ImageTarget name="12" size="0.050000 0.050752" />
+    <ImageTarget name="10" size="0.100000 0.133333" />
+    <ImageTarget name="8" size="0.050000 0.054410" />
+    <ImageTarget name="4" size="0.100000 0.133333" />
+    <ImageTarget name="dragon" size="0.100000 0.100858" />
+    <ImageTarget name="auHack" size="0.100000 0.100000" />
+    <ImageTarget name="30772104_1130592760415917_2037786868_o" size="0.100000 0.100000" />
+  </Tracking>
+</QCARConfig>
